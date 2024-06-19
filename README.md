@@ -76,6 +76,6 @@
 ### Stats
 <details>
   <summary>Codewars</summary>
-  <a href="https://www.codewars.com/users/NoitrX"><img src="https://www.codewars.com/users/Mednoob/badges/large" alt="Codewars Stats"/></a><br>
+  <a href="https://www.codewars.com/users/NoitrX"><img src="https://www.codewars.com/users/NoitrX/badges/large" alt="Codewars Stats"/></a><br>
   <a href="https://www.codewars.com/users/NoitrX"><img src="https://github.r2v.ch/codewars?user=NoitrX&top_languages=true" alt="More Codewars Stats"/></a>
 </details>
