@@ -34,7 +34,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,nextjs,mysql,laravel" /><br>
 </div>
 
@@ -67,7 +67,7 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='#' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
@@ -77,5 +77,4 @@
 <details>
   <summary>Codewars</summary>
   <a href="https://www.codewars.com/users/NoitrX"><img src="https://www.codewars.com/users/NoitrX/badges/large" alt="Codewars Stats"/></a><br>
-  <a href="https://www.codewars.com/users/NoitrX"><img src="https://github.r2v.ch/codewars?user=NoitrX&top_languages=true" alt="More Codewars Stats"/></a>
 </details>
