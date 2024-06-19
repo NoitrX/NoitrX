@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m student on **Politeknik Negeri Jakarta**
+ 🔭 I’m Freelance **Fullstack Developer |**
  
  🌱 I’m currently learning **Typescript, Next JS, MongoDB**
 
