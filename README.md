@@ -11,7 +11,7 @@
  
  🔭 I’m Freelance **Fullstack Developer |**
  
- 🌱 I’m currently learning **Typescript, Next JS, MongoDB**
+ 🌱 Stil Learning
 
 💬 I Love Designing Some Website or application Using Figma and Also Like to solve Problem in Codewars
 
