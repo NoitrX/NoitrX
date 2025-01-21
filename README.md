@@ -15,8 +15,6 @@
 
 💬 I Love Designing Some Website or application Using Figma and Also Like to solve Problem in Codewars
 
-⚡ Fun fact **I'am Valorant Player**
-
  </div>
  
 <div align="center"> 
